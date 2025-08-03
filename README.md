@@ -41,7 +41,7 @@ marl-collaborative-labeling/
 │   └── workflows/
 │       └── python-app.yml          # GitHub Actions CI
 ├── requirements.txt                # Python dependencies
-├── LICENSE                         # MIT license
+├── LICENSE                         # license
 └── README.md                       # You're here!
 ```
 
