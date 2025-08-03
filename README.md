@@ -135,12 +135,6 @@ Imagine you are building a sentiment classifier using labels from 10 human annot
 
 ---
 
-## ✅ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please fork the repo and open a pull request with:
@@ -148,15 +142,6 @@ We welcome contributions! Please fork the repo and open a pull request with:
 - Clear purpose for change
 - Code format following PEP8
 - Tests added for new features
-
----
-
-## 🧙 Maintainer
-
-Built by [Your Name], Git and RL enthusiast.  
-For feedback, open an issue or reach out on [LinkedIn/GitHub].
-
-
 
 ---
 
@@ -175,4 +160,5 @@ Their insights into recent research on collaborative reinforcement learning, con
 |----------------|-----------------------------|-----------------------------|
 | Aarav Singla   | Literature Review Specialist | Background Research, Related Work Insights |
 | Advik Gupta    | Literature Review Specialist | Trend Analysis, Research Ideation          |
-| [Your Name]    | Lead Developer              | Implementation, Architecture, Training     |
+
+
